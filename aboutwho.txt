@@ -1,0 +1,82 @@
+<html>
+	<head>
+		<title> ABOUT ME </title>
+	</head>
+
+<body background="handsomepeppino.png">
+
+	<table align="right" bgcolor="#000000" width="725" height="5S	00" border="5" bordercolor="DarkGray" cellpadding="6" cellspacing="2">
+		
+		
+		<tr>
+
+	<td align="justify">
+
+		<font color="red" face="Times New Roman" size="4">
+
+		<img src="poging_ian.jpg" alt="Poging Picture of Ian" width="300px" height="400px">
+
+		</font>
+		
+	</td>
+
+	<td align="justify" widht="40%">
+		
+		<font color="red" face="Times New Roman" size="4">
+
+		I am Ian Karlo Panahon, and this is all about me. Before we begin on getting to know me, lets look at the picture on the left. This picture was taken at September 26, 2024 during the second day of periodicals. I was able to finish the first exam early, so I had more time to study for the following exams. I was studying with my friends at the time to make it easier for me to recall the topics.
+
+			<br> <br>
+		
+		Now let us go on more about the things that I like and my dislikes.
+
+			<br> <br>
+			<ol type="I">
+
+				
+			<li> HOBBIES </li>
+
+			<ul type="square">
+
+			<li> Playing video games </li>
+			<li> Coding </li>
+			<li> Cleaning </li>
+			
+			</ul>
+
+			<li> LIKES </li>
+
+			<ul type="square">
+
+			<li> Singing </li>
+			<li> Talking </li>
+			<li> Being with friends </li>
+
+			</ul>
+
+			<li> DISLIKES </li>
+
+			<ul type="square">
+
+			<li> Dirty Floors </li>
+			<li> Noise </li>
+			<li> Dark rooms </li>
+
+			</ul>
+
+
+			</ol>
+
+		</font>
+
+	</td>
+
+		</tr>
+		
+
+	</table>
+
+	<a href="Panahon_Portfolio.html"> <img src="spinning.gif" alt="spinning face"> </a>
+
+</body>
+</html>

@@ -1,0 +1,81 @@
+<html>
+    <head>
+        <title> OUTPUTS </title>
+    </head>
+<body background="pizzaface.png">
+
+    <a href="Panahon_Portfolio.html"> <img src="spinning.gif" alt="spinning face"> </a>
+
+    <table align="center" bgcolor="black " cellpadding="6" border="3" bordercolor="white">
+
+        <tr> <td align="center" colspan="2"> <img src="lesson.png" alt="What is the difference of HTML and XHTML?" width="500px" height="400px"> </td> </tr>
+
+        <tr valign="top">
+            <td width="600px">
+                
+                <font size="5" color="white">
+                
+                <dt> <strong> List </strong> </dt>
+                    <dd> A way in order to organize information. </dd>
+                    <dd> Are used to specify lists of information. </dd>
+
+                <ul type="disc">
+                    <li> 1 </li>
+                    <li> 2 </li>
+                    <li> 3 </li>
+                </ul>
+
+                <ol type="A" start="2">
+                    <li> 101 </li>
+                    <li> 102 </li>
+                    <li> 103 </li>
+                </ol>
+               
+                </font>
+
+            </td>
+            
+            <td width="600px">
+
+                <font size="4" color="white">
+
+                <form action="mailto:iankarlopanahon@gmail.com" method="get" enctype="text/plain">
+
+                    Hey! This is a form, I recommend you taking your time to interact with this form. 
+                    <br> <br>
+                    Now let us start!
+                    <br> <br> <br>
+                    <input type="text" name="textbox1" value="HELLO!!">
+                    <br> <br>
+                    Type in "password" <input type="password" name="password2">
+                    <br> <br>
+                    <input type="radio" name="radio1"> FIRST OPTION
+                    <input type="radio" name="radio1"> SECOND OPTION
+                    <br> <br>
+                    <input type="checkbox" name="checkbox1"> FIRST CHECK
+                    <input type="checkbox" name="checkbox1"> SECOND CHECK
+                    <input type="checkbox" name="checkbox1"> THIRD CHECK
+                    <br> <br>
+                    <select name="select1" size="1">
+                        <option value="TRUE" selected> TRUE </option>
+                        <option value="FALSE"> FALSE </option>
+                    </select>
+                    <br> <br>
+                    <textarea name="textarea1" rows="5" cols="50" wrap="off">
+Hello!
+                    </textarea>
+                    <br> <br>   
+                    <input type="submit" value="SUBMIT">
+                    <input type="reset" value="CLEAR">
+
+                </form> 
+
+               </font>
+            
+            </td>
+        </tr>
+
+    </table>
+
+</body>
+</html>

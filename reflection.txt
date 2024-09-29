@@ -1,0 +1,31 @@
+<html>
+	<head>
+		<title> REFLECTION </title>
+	</head>
+
+<body background="lonely.png">
+
+
+	<a href="Panahon_Portfolio.html"> <img src="spinning.gif" alt="spinning face"> </a>
+
+
+		<table align="center">
+
+			<tr>
+				<td> <img src="smilepizza.gif" alt="Smiling pizza"> </td>
+
+				<td align="justify" width="500px"> 
+					<font face="Times New Roman" size="4" color="white"> 
+						In this quarter, I have learned many new lessons and experienced new challenges. For example, I have learned that you should practice before the actual performance in ICT hands-on activities. I also learned this quarter that you should do activities by dividing the work over time instead of doing it all in a short amount of time. I also learned that a lot of challenges can be easily finished by helping one another, as friends can make it more fun and helps you understand topics more by talking to one another.
+						<br> <br>
+						I would like to thank my classmates, teachers, family, and friends for joining me in this journey, for helping me when I am confused, and learning new things with them. I cherish these moments with everyone in this school and outside of it. I thank everyone for this moment with you, as we wouldn't get this far without you.
+					</font> 
+				</td>
+
+			</tr>
+
+		</table>
+
+
+</body>
+</html>

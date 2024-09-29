@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>  </title>
+    </head>
+
+<body bgcolor="Purple">
+
+    <h1> SOURCES </h1>
+
+<p>
+<font color="white">
+    Credits to: <cite>Tour De Pizza</cite> for the images of <cite>Pizza Tower</cite>.
+    <br>
+    All class images from <cite>9-Family 2024-2025</cite>.
+</font>
+</p>
+
+<a href="Panahon_Portfolio.html"> <img src="spinning.gif" alt="spinning face"> </a>
+
+</body>
+
+</html>

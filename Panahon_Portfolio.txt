@@ -1,0 +1,77 @@
+<html>
+	<head>
+		<title> Panahon_Portfolio </title>
+	</head>
+
+<body background="peppino.png">
+
+<table align="center">
+
+
+	<tr>
+
+	<td align="center">
+
+		<a href="index.html">
+
+			<img src="sadface.gif" alt="sadface"> 
+
+		</a> 
+
+	</td> 
+
+
+	<td align="center"> 
+
+		<a href="aboutwho.html">
+
+		<img src="tv1.png" alt="Television 1"> 
+
+		</a>
+
+	</td>  
+
+
+	<td align="center" width="40%"> 
+
+		<a href="activities.html">
+
+		<img src="tv2.png" alt="Television 2"> 
+
+		</a>
+
+	</td> 
+
+	<td align="center"> 
+
+		<a href="outputs.html">
+
+		<img src="tv3.png" alt="Television 3"> 
+
+		</a>
+
+	</td>
+
+	</tr>
+
+	<tr>
+
+		<td colspan="4" align="center">
+
+			<a href="reflection.html">
+
+			<img src="pizzaman.png" alt="HYPERLINK FOR REFLECTION, PIZZA MAN">
+
+			</a>
+
+		</td>
+
+	</tr>
+
+
+</table>
+
+
+
+</body>
+</html>
