@@ -26,7 +26,7 @@ span.import{color:yellow; font-weight:bold;}
 
 <div class="perps">
 
-    <img src="kerbs.png" alt="Funny pug image" style="float:left; position:static; border:10px; border-color:black; border-style:double; border-spacing:4; width:1100px; height:600px;">
+    <img src="kerbs.png" alt="Funny pug image" style="float:left; position:static; border:10px; border-color:black; border-style:double; border-spacing:4; width:30%; height:20%;">
 
 <span class="import"> CSS </span> is a programming language which has more flexibility in terms of design and presentation. The syntax of CSS is... "<em>selector</em>{<em>property</em>:<em>value</em>;}" There are 3 types of CSS, inline, embedded/internal, and linked/external. <span style="color:aquamarine;"> Inline </span> is an attribute, embedded is a tag, and linked is a file. <span style="color:aquamarine;"> is for specific tags only </span>, <span id="embed"> embedded is for a group of tags </span>, and <span id="link"> linked is when multiple webpages require the same line of code. </span>
 <br> <br>
@@ -38,7 +38,7 @@ The span and div tag do not have any default styling information, so you will ha
 <br> <br>
 Pseudo-classes are selectors that are not user-defined and defined by a colon. Ex: <a style="a:link{color:orange;} a:visited{color:black;} a:active{color:yellow;} a:hover{color:blue;}" href="#"> I HAVE DIFFERENT PROPERTIES!! </a> (Link does not work because it is using #, it has no redirect function, purely for representation only)
 
-<img src="banana.png" alt="Cute orange tabby" style="position:fixed; bottom:1%; right:7%; border:10px; border-color:black; border-style:double; width:900px; height:500px;">
+<img src="banana.png" alt="Cute orange tabby" style="position:fixed; bottom:3%; right:7%; border:10px; border-color:black; border-style:double; width:40%; height:40%;">
 
 </div>
 <br>
@@ -49,7 +49,7 @@ Pseudo-classes are selectors that are not user-defined and defined by a colon. E
 <mark> <a href="outputs2.txt"> TEXT FILE </a> </mark>
 <br>
 <mark> <a href="home2nd.html"> BACK TO HOME PAGE </a> </mark>
-<br>. SCROLL DOWN <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>.
+<br>. SCROLL DOWN <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>. <br>.
 Hello!
 
 </body>
