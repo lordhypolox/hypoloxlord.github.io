@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+	<title> OUTPUTS </title>
+<style type='text/css'>
+*{font-family:Verdana; font-size:19px;
+</style>
+<script type="text/javascript">
+
+function math()
+{
+var look=document.frmbook.cmbbook.value
+
+switch (look)
+
+{
+// no closing tag for script tags to link the external js, the browser detects the ending close tags as the ACTUAL closing, not part of the document.write() part.
+// i realized it didnt work because without the closing tag, all following code did not work and included, so i replaced it with anchor tag sadly.... UNLESS
+// it didnt work, so apparently it disregards the script tag entirely despite showing up in the code, without the closing tag it cannot detect the end of the statement to execute the code, however placing a closing tag closes the entire code.
+// andrew garfield
+case "a": document.write("<a href='les4b.html'> LESSON 4b </a>")
+break
+case "0": document.write("<a href='les4a.html'> LESSON 4a </a>")
+break
+case "1": document.write("<a href='les4.html'> LESSON 4 </a>")
+break
+case "2": document.write("<a href='les3.html'> LESSON 3 </a>")
+break
+case "3": document.write("<a href='les2.html'> LESSON 2 </a>")
+break
+case "4": document.write("<a href='les1.html'> LESSON 1 </a>")
+break
+
+default: alert("PICK!")
+}
+}
+
+
+</script>
+
+</head>
+
+<body bgcolor="black">
+
+<p style='color:white;'> This is the example for switch. </p>
+
+<form name=frmbook>
+<select name=cmbbook>
+<option> </option>
+<option value="a"> LESSON 4b </option>
+<option value="0"> LESSON 4a </option>
+<option value="1"> LESSON 4 </option>
+<option value="2"> LESSON 3 </option>
+<option value="3"> LESSON 2 </option>
+<option value="4"> LESSON 1 </option>
+</select>
+<input type="button" name="combo" value="SUBMIT" onclick=math()>
+</form>
+<br/> <br/>
+<a href='HOMEhtml.html'> HOME </a>
+<link rel='stylesheet' href='anchor.css'>
+</body>
+
+</html>
+
